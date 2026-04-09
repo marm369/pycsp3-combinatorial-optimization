@@ -1,0 +1,50 @@
+
+[93mACE v2.5 [0m
+
+  [94minstance[0m
+    name:meeting_scheduling
+    args:meeting_scheduling.xml
+
+ [33m...Loading[0m variables
+
+ [33m...Loading[0m constraints
+
+  [94mdomains[0m
+    types:1  values:336  sizes:[12:28]
+  [94mvariables[0m
+    count:28  omitted:12  arrays:[x:28]  degrees:[3:13,6:7,9:7,12:1]
+  [94mconstraints[0m
+    count:78  specific:78  groups:1  arities:[2:78]
+    distribution:[Disjonctive:78]
+    wck:0.11  cpu:0.355  mem:47M167
+
+ [33m...Building[0m solver
+
+  [94msolver[0m
+    guaranteedAC:true
+    wck:0.12  cpu:0.363  mem:52M516
+
+  [94mpreprocessing[0m
+    values:336  unsat:false
+    cpu:0.364  mem:52M516
+
+  [94msearch[0m
+    run1  dpts:2..3  effs:267  fails:10  wrgs:12  wck:0.00  ngds:4
+    run2  dpts:0..2  effs:598  fails:21  wrgs:26  wck:0.00  ngds:5
+    run3  dpts:0..2  effs:913  fails:33  wrgs:42  wck:0.00  ngds:6
+    run4  dpts:1..2  effs:1.112  fails:46  wrgs:59  wck:0.01  ngds:10
+    run5  dpts:0..1  effs:1.416  fails:60  wrgs:77  wck:0.01  ngds:10
+    run6  dpts:0..1  effs:1.507  fails:65  wrgs:84  wck:0.01  ngds:10
+
+  [94mglobal[0m
+    effs:1.507  ngds:10
+    stop:FULL_EXPLORATION  wrgs:84
+    wck:0.13  cpu:0.37  mem:53M539
+
+[92ms UNSATISFIABLE[0m
+[92m
+d WRONG DECISIONS[0m  84
+[92md FOUND SOLUTIONS[0m  0
+[92md COMPLETE EXPLORATION[0m
+
+c real time : 0.37

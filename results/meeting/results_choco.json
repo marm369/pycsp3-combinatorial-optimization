@@ -1,0 +1,237 @@
+{
+  "solver": "choco",
+  "total_time_seconds": 10.117,
+  "instances": [
+    {
+      "instance_id": 1,
+      "status": "solved",
+      "solution": [
+        0,
+        4,
+        4,
+        11,
+        11,
+        0,
+        11,
+        0,
+        0,
+        6,
+        2,
+        11,
+        6,
+        8,
+        0,
+        6,
+        9,
+        8,
+        2,
+        2
+      ],
+      "verification": "Solution valide",
+      "time_seconds": 0.257
+    },
+    {
+      "instance_id": 2,
+      "status": "solved",
+      "solution": [
+        6,
+        2,
+        8,
+        5,
+        7,
+        3,
+        9,
+        3,
+        11,
+        11,
+        5,
+        11,
+        0,
+        0,
+        3,
+        11,
+        0,
+        7,
+        6,
+        0
+      ],
+      "verification": "Solution valide",
+      "time_seconds": 0.263
+    },
+    {
+      "instance_id": 3,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.288
+    },
+    {
+      "instance_id": 4,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.243
+    },
+    {
+      "instance_id": 5,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.232
+    },
+    {
+      "instance_id": 6,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.373
+    },
+    {
+      "instance_id": 7,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.469
+    },
+    {
+      "instance_id": 8,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.397
+    },
+    {
+      "instance_id": 9,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.374
+    },
+    {
+      "instance_id": 10,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.435
+    },
+    {
+      "instance_id": 11,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.437
+    },
+    {
+      "instance_id": 12,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.37
+    },
+    {
+      "instance_id": 13,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.39
+    },
+    {
+      "instance_id": 14,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.334
+    },
+    {
+      "instance_id": 15,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.377
+    },
+    {
+      "instance_id": 16,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.435
+    },
+    {
+      "instance_id": 17,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.38
+    },
+    {
+      "instance_id": 18,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.492
+    },
+    {
+      "instance_id": 19,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.347
+    },
+    {
+      "instance_id": 20,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.345
+    },
+    {
+      "instance_id": 21,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.344
+    },
+    {
+      "instance_id": 22,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.324
+    },
+    {
+      "instance_id": 23,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.307
+    },
+    {
+      "instance_id": 24,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.323
+    },
+    {
+      "instance_id": 25,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.338
+    },
+    {
+      "instance_id": 26,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.95
+    },
+    {
+      "instance_id": 27,
+      "status": "unsolved",
+      "solution": null,
+      "verification": "No solution found",
+      "time_seconds": 0.293
+    }
+  ]
+}

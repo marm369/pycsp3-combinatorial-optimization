@@ -1,0 +1,195 @@
+{
+  "solver": "z3",
+  "total_time_seconds": 0.293,
+  "instances": [
+    {
+      "instance_id": 1,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.02
+    },
+    {
+      "instance_id": 2,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 3,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.01
+    },
+    {
+      "instance_id": 4,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.01
+    },
+    {
+      "instance_id": 5,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.008
+    },
+    {
+      "instance_id": 6,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.014
+    },
+    {
+      "instance_id": 7,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.024
+    },
+    {
+      "instance_id": 8,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.013
+    },
+    {
+      "instance_id": 9,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 10,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 11,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 12,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 13,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.008
+    },
+    {
+      "instance_id": 14,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.008
+    },
+    {
+      "instance_id": 15,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.008
+    },
+    {
+      "instance_id": 16,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 17,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 18,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.012
+    },
+    {
+      "instance_id": 19,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.011
+    },
+    {
+      "instance_id": 20,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.011
+    },
+    {
+      "instance_id": 21,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.011
+    },
+    {
+      "instance_id": 22,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.012
+    },
+    {
+      "instance_id": 23,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 24,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 25,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.009
+    },
+    {
+      "instance_id": 26,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.015
+    },
+    {
+      "instance_id": 27,
+      "status": "error",
+      "solution": null,
+      "verification": "The name of the solver is not valid",
+      "time_seconds": 0.007
+    }
+  ]
+}
