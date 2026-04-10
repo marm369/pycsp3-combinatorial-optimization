@@ -1,2 +1,0 @@
-Statut: TIMEOUT
-Temps écoulé: 0.0s (max 600s)

@@ -1,1 +1,6 @@
 pycsp3
+pycsp3-solvers-extra
+matplotlib
+pandas
+numpy
+tqdm

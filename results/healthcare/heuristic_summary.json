@@ -1,0 +1,375 @@
+{
+  "solver": "healthcare_heuristic_from_scratch",
+  "generated_at": "2026-04-10 15:36:53",
+  "total_time_seconds": 5.174,
+  "instances": [
+    {
+      "instance_id": 1,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i01.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 5923, Unscheduled: 4550,  Delay: 680,  OpenOT: 210,  AgeMix: 15,  Skill: 360,  Excess: 20,  Continuity: 88,  SurgeonTransfer: 0",
+      "time_seconds": 0.002
+    },
+    {
+      "instance_id": 2,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i02.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 2288, Unscheduled: 1050,  Delay: 485,  OpenOT: 210,  AgeMix: 30,  Skill: 220,  Excess: 160,  Continuity: 133,  SurgeonTransfer: 0",
+      "time_seconds": 0.003
+    },
+    {
+      "instance_id": 3,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i03.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 13450, Unscheduled: 11600,  Delay: 975,  OpenOT: 350,  AgeMix: 5,  Skill: 150,  Excess: 5,  Continuity: 365,  SurgeonTransfer: 0",
+      "time_seconds": 0.002
+    },
+    {
+      "instance_id": 4,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i04.json",
+      "unscheduled_mandatory": [
+        "p33",
+        "p47"
+      ],
+      "cost": "Cost: 8719, Unscheduled: 6900,  Delay: 795,  OpenOT: 300,  AgeMix: 125,  Skill: 154,  Excess: 220,  Continuity: 219,  SurgeonTransfer: 6",
+      "time_seconds": 0.007
+    },
+    {
+      "instance_id": 5,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i05.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 17391, Unscheduled: 12250,  Delay: 4210,  OpenOT: 480,  AgeMix: 5,  Skill: 140,  Excess: 30,  Continuity: 276,  SurgeonTransfer: 0",
+      "time_seconds": 0.013
+    },
+    {
+      "instance_id": 6,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i06.json",
+      "unscheduled_mandatory": [
+        "p099"
+      ],
+      "cost": "Cost: 13075, Unscheduled: 12000,  Delay: 595,  OpenOT: 240,  AgeMix: 8,  Skill: 56,  Excess: 0,  Continuity: 176,  SurgeonTransfer: 0",
+      "time_seconds": 0.008
+    },
+    {
+      "instance_id": 7,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i07.json",
+      "unscheduled_mandatory": [
+        "p68"
+      ],
+      "cost": "Cost: 12094, Unscheduled: 7200,  Delay: 1710,  OpenOT: 320,  AgeMix: 60,  Skill: 1010,  Excess: 235,  Continuity: 1550,  SurgeonTransfer: 9",
+      "time_seconds": 0.02
+    },
+    {
+      "instance_id": 8,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i08.json",
+      "unscheduled_mandatory": [
+        "p125",
+        "p078"
+      ],
+      "cost": "Cost: 13136, Unscheduled: 4800,  Delay: 3860,  OpenOT: 1840,  AgeMix: 135,  Skill: 340,  Excess: 994,  Continuity: 777,  SurgeonTransfer: 390",
+      "time_seconds": 0.071
+    },
+    {
+      "instance_id": 9,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i09.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 12778, Unscheduled: 7500,  Delay: 3120,  OpenOT: 400,  AgeMix: 170,  Skill: 124,  Excess: 134,  Continuity: 1210,  SurgeonTransfer: 120",
+      "time_seconds": 0.019
+    },
+    {
+      "instance_id": 10,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i10.json",
+      "unscheduled_mandatory": [
+        "p146"
+      ],
+      "cost": "Cost: 29820, Unscheduled: 24000,  Delay: 2245,  OpenOT: 440,  AgeMix: 120,  Skill: 1260,  Excess: 90,  Continuity: 1645,  SurgeonTransfer: 20",
+      "time_seconds": 0.023
+    },
+    {
+      "instance_id": 11,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i11.json",
+      "unscheduled_mandatory": [
+        "p054",
+        "p033"
+      ],
+      "cost": "Cost: 43583, Unscheduled: 42000,  Delay: 715,  OpenOT: 510,  AgeMix: 2,  Skill: 98,  Excess: 0,  Continuity: 208,  SurgeonTransfer: 50",
+      "time_seconds": 0.014
+    },
+    {
+      "instance_id": 12,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i12.json",
+      "unscheduled_mandatory": [
+        "p011",
+        "p045",
+        "p060",
+        "p057",
+        "p071",
+        "p100",
+        "p058",
+        "p051",
+        "p067",
+        "p005",
+        "p082"
+      ],
+      "cost": "Cost: 34459, Unscheduled: 27600,  Delay: 1500,  OpenOT: 780,  AgeMix: 29,  Skill: 1990,  Excess: 765,  Continuity: 1705,  SurgeonTransfer: 90",
+      "time_seconds": 0.022
+    },
+    {
+      "instance_id": 13,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i13.json",
+      "unscheduled_mandatory": [
+        "p102"
+      ],
+      "cost": "Cost: 35317, Unscheduled: 28000,  Delay: 5115,  OpenOT: 270,  AgeMix: 200,  Skill: 192,  Excess: 195,  Continuity: 1215,  SurgeonTransfer: 130",
+      "time_seconds": 0.037
+    },
+    {
+      "instance_id": 14,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i14.json",
+      "unscheduled_mandatory": [
+        "p055",
+        "p082",
+        "p019",
+        "p124"
+      ],
+      "cost": "Cost: 28198, Unscheduled: 23450,  Delay: 1135,  OpenOT: 1150,  AgeMix: 9,  Skill: 231,  Excess: 50,  Continuity: 2150,  SurgeonTransfer: 23",
+      "time_seconds": 0.042
+    },
+    {
+      "instance_id": 15,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i15.json",
+      "unscheduled_mandatory": [
+        "p093",
+        "p028"
+      ],
+      "cost": "Cost: 26091, Unscheduled: 17850,  Delay: 4050,  OpenOT: 310,  AgeMix: 31,  Skill: 860,  Excess: 550,  Continuity: 2290,  SurgeonTransfer: 150",
+      "time_seconds": 0.068
+    },
+    {
+      "instance_id": 16,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i16.json",
+      "unscheduled_mandatory": [
+        "p072",
+        "p118",
+        "p103",
+        "p134",
+        "p129",
+        "p079",
+        "p053",
+        "p096",
+        "p030",
+        "p111",
+        "p058",
+        "p115",
+        "p034",
+        "p098",
+        "p105",
+        "p008",
+        "p112",
+        "p126",
+        "p122",
+        "p146",
+        "p143",
+        "p131",
+        "p085",
+        "p145",
+        "p021",
+        "p099",
+        "p114"
+      ],
+      "cost": "Cost: 136310, Unscheduled: 131400,  Delay: 1695,  OpenOT: 1080,  AgeMix: 27,  Skill: 690,  Excess: 817,  Continuity: 491,  SurgeonTransfer: 110",
+      "time_seconds": 0.037
+    },
+    {
+      "instance_id": 17,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i17.json",
+      "unscheduled_mandatory": [
+        "p234"
+      ],
+      "cost": "Cost: 63415, Unscheduled: 34500,  Delay: 12315,  OpenOT: 2010,  AgeMix: 285,  Skill: 6330,  Excess: 2110,  Continuity: 5590,  SurgeonTransfer: 275",
+      "time_seconds": 0.301
+    },
+    {
+      "instance_id": 18,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i18.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 50106, Unscheduled: 43200,  Delay: 5490,  OpenOT: 750,  AgeMix: 5,  Skill: 136,  Excess: 0,  Continuity: 510,  SurgeonTransfer: 15",
+      "time_seconds": 0.089
+    },
+    {
+      "instance_id": 19,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i19.json",
+      "unscheduled_mandatory": [
+        "p114"
+      ],
+      "cost": "Cost: 68093, Unscheduled: 14750,  Delay: 37080,  OpenOT: 2550,  AgeMix: 28,  Skill: 3540,  Excess: 2000,  Continuity: 7195,  SurgeonTransfer: 950",
+      "time_seconds": 0.622
+    },
+    {
+      "instance_id": 20,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i20.json",
+      "unscheduled_mandatory": [
+        "p099",
+        "p166",
+        "p170",
+        "p091",
+        "p126",
+        "p000",
+        "p056",
+        "p097",
+        "p093",
+        "p142",
+        "p105",
+        "p117",
+        "p157",
+        "p121",
+        "p125",
+        "p168",
+        "p052",
+        "p148",
+        "p131"
+      ],
+      "cost": "Cost: 134079, Unscheduled: 128000,  Delay: 1980,  OpenOT: 1160,  AgeMix: 29,  Skill: 1960,  Excess: 470,  Continuity: 456,  SurgeonTransfer: 24",
+      "time_seconds": 0.044
+    },
+    {
+      "instance_id": 21,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i21.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 35765, Unscheduled: 19000,  Delay: 7045,  OpenOT: 2750,  AgeMix: 51,  Skill: 2245,  Excess: 370,  Continuity: 4240,  SurgeonTransfer: 64",
+      "time_seconds": 0.224
+    },
+    {
+      "instance_id": 22,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i22.json",
+      "unscheduled_mandatory": [
+        "p125",
+        "p095",
+        "p385",
+        "p354",
+        "p249"
+      ],
+      "cost": "Cost: 95621, Unscheduled: 79650,  Delay: 7275,  OpenOT: 1560,  AgeMix: 61,  Skill: 937,  Excess: 430,  Continuity: 5625,  SurgeonTransfer: 83",
+      "time_seconds": 0.344
+    },
+    {
+      "instance_id": 23,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i23.json",
+      "unscheduled_mandatory": [
+        "p286"
+      ],
+      "cost": "Cost: 63857, Unscheduled: 22600,  Delay: 32550,  OpenOT: 750,  AgeMix: 23,  Skill: 550,  Excess: 1053,  Continuity: 6245,  SurgeonTransfer: 86",
+      "time_seconds": 0.388
+    },
+    {
+      "instance_id": 24,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i24.json",
+      "unscheduled_mandatory": [
+        "p355",
+        "p151",
+        "p386",
+        "p287",
+        "p311",
+        "p440",
+        "p312",
+        "p198",
+        "p142",
+        "p185",
+        "p399",
+        "p289",
+        "p426",
+        "p331",
+        "p402",
+        "p220",
+        "p159",
+        "p434",
+        "p409",
+        "p301",
+        "p362",
+        "p407",
+        "p361",
+        "p244",
+        "p418"
+      ],
+      "cost": "Cost: 126445, Unscheduled: 118650,  Delay: 4540,  OpenOT: 680,  AgeMix: 3,  Skill: 448,  Excess: 27,  Continuity: 1237,  SurgeonTransfer: 860",
+      "time_seconds": 0.536
+    },
+    {
+      "instance_id": 25,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i25.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 14590, Unscheduled: 7200,  Delay: 2445,  OpenOT: 1000,  AgeMix: 155,  Skill: 336,  Excess: 374,  Continuity: 2795,  SurgeonTransfer: 285",
+      "time_seconds": 0.169
+    },
+    {
+      "instance_id": 26,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i26.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 89430, Unscheduled: 59000,  Delay: 20240,  OpenOT: 850,  AgeMix: 59,  Skill: 901,  Excess: 900,  Continuity: 6880,  SurgeonTransfer: 600",
+      "time_seconds": 0.633
+    },
+    {
+      "instance_id": 27,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i27.json",
+      "unscheduled_mandatory": [],
+      "cost": "Cost: 96852, Unscheduled: 65000,  Delay: 15295,  OpenOT: 2910,  AgeMix: 60,  Skill: 8020,  Excess: 2840,  Continuity: 1667,  SurgeonTransfer: 1060",
+      "time_seconds": 0.713
+    },
+    {
+      "instance_id": 28,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i28.json",
+      "unscheduled_mandatory": [
+        "p303",
+        "p135",
+        "p071",
+        "p204",
+        "p332",
+        "p262",
+        "p325",
+        "p348",
+        "p378",
+        "p293",
+        "p239",
+        "p370",
+        "p131",
+        "p181",
+        "p055",
+        "p281",
+        "p353",
+        "p012",
+        "p230",
+        "p077"
+      ],
+      "cost": "Cost: 168429, Unscheduled: 154800,  Delay: 5800,  OpenOT: 2650,  AgeMix: 1,  Skill: 770,  Excess: 493,  Continuity: 3595,  SurgeonTransfer: 320",
+      "time_seconds": 0.205
+    },
+    {
+      "instance_id": 29,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i29.json",
+      "unscheduled_mandatory": [
+        "p028"
+      ],
+      "cost": "Cost: 36006, Unscheduled: 30300,  Delay: 3125,  OpenOT: 530,  AgeMix: 155,  Skill: 487,  Excess: 140,  Continuity: 799,  SurgeonTransfer: 470",
+      "time_seconds": 0.221
+    },
+    {
+      "instance_id": 30,
+      "solution_path": "/Users/maryemminouari/pycsp3-combinatorial-optimization/results/healthcare/solutions/sol_i30.json",
+      "unscheduled_mandatory": [
+        "p156",
+        "p228",
+        "p304",
+        "p254",
+        "p161",
+        "p363",
+        "p335",
+        "p278",
+        "p391",
+        "p403",
+        "p394"
+      ],
+      "cost": "Cost: 71524, Unscheduled: 45800,  Delay: 14055,  OpenOT: 2720,  AgeMix: 210,  Skill: 1110,  Excess: 2592,  Continuity: 4940,  SurgeonTransfer: 97",
+      "time_seconds": 0.297
+    }
+  ]
+}

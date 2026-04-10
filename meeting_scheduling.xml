@@ -1,8 +1,88 @@
 <instance format="XCSP3" type="CSP">
   <variables>
-    <array id="x" size="[5]"> 0..4 </array>
+    <array id="x" size="[40]"> 0..11 </array>
   </variables>
   <constraints>
-    <allDifferent> x[] </allDifferent>
+    <group>
+      <intension> or(ge(sub(%0,%1),%2),ge(sub(%1,%0),%2)) </intension>
+      <args> x[15] x[16] 4 </args>
+      <args> x[15] x[38] 3 </args>
+      <args> x[15] x[39] 4 </args>
+      <args> x[16] x[38] 5 </args>
+      <args> x[16] x[39] 5 </args>
+      <args> x[38] x[39] 3 </args>
+      <args> x[3] x[4] 4 </args>
+      <args> x[3] x[8] 4 </args>
+      <args> x[3] x[26] 3 </args>
+      <args> x[4] x[8] 4 </args>
+      <args> x[4] x[26] 4 </args>
+      <args> x[8] x[26] 4 </args>
+      <args> x[3] x[21] 3 </args>
+      <args> x[3] x[23] 3 </args>
+      <args> x[3] x[36] 3 </args>
+      <args> x[21] x[23] 5 </args>
+      <args> x[21] x[36] 5 </args>
+      <args> x[23] x[36] 3 </args>
+      <args> x[4] x[13] 4 </args>
+      <args> x[4] x[35] 3 </args>
+      <args> x[4] x[39] 5 </args>
+      <args> x[13] x[35] 4 </args>
+      <args> x[13] x[39] 3 </args>
+      <args> x[35] x[39] 5 </args>
+      <args> x[4] x[7] 3 </args>
+      <args> x[4] x[15] 4 </args>
+      <args> x[4] x[16] 5 </args>
+      <args> x[7] x[15] 4 </args>
+      <args> x[7] x[16] 3 </args>
+      <args> x[15] x[16] 4 </args>
+      <args> x[11] x[16] 4 </args>
+      <args> x[11] x[23] 4 </args>
+      <args> x[11] x[37] 4 </args>
+      <args> x[16] x[23] 5 </args>
+      <args> x[16] x[37] 5 </args>
+      <args> x[23] x[37] 3 </args>
+      <args> x[1] x[11] 3 </args>
+      <args> x[1] x[18] 3 </args>
+      <args> x[1] x[21] 5 </args>
+      <args> x[11] x[18] 3 </args>
+      <args> x[11] x[21] 3 </args>
+      <args> x[18] x[21] 4 </args>
+      <args> x[7] x[8] 3 </args>
+      <args> x[7] x[21] 4 </args>
+      <args> x[7] x[31] 3 </args>
+      <args> x[8] x[21] 4 </args>
+      <args> x[8] x[31] 5 </args>
+      <args> x[21] x[31] 4 </args>
+      <args> x[10] x[13] 3 </args>
+      <args> x[10] x[27] 3 </args>
+      <args> x[10] x[28] 3 </args>
+      <args> x[13] x[27] 4 </args>
+      <args> x[13] x[28] 4 </args>
+      <args> x[27] x[28] 3 </args>
+      <args> x[0] x[7] 5 </args>
+      <args> x[0] x[9] 4 </args>
+      <args> x[0] x[28] 3 </args>
+      <args> x[7] x[9] 3 </args>
+      <args> x[7] x[28] 5 </args>
+      <args> x[9] x[28] 3 </args>
+      <args> x[3] x[10] 5 </args>
+      <args> x[3] x[20] 3 </args>
+      <args> x[3] x[37] 3 </args>
+      <args> x[10] x[20] 4 </args>
+      <args> x[10] x[37] 5 </args>
+      <args> x[20] x[37] 4 </args>
+      <args> x[10] x[13] 3 </args>
+      <args> x[10] x[18] 5 </args>
+      <args> x[10] x[24] 4 </args>
+      <args> x[13] x[18] 4 </args>
+      <args> x[13] x[24] 4 </args>
+      <args> x[18] x[24] 4 </args>
+      <args> x[11] x[16] 4 </args>
+      <args> x[11] x[29] 3 </args>
+      <args> x[11] x[32] 4 </args>
+      <args> x[16] x[29] 4 </args>
+      <args> x[16] x[32] 4 </args>
+      <args> x[29] x[32] 5 </args>
+    </group>
   </constraints>
 </instance>

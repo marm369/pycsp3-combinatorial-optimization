@@ -1,7 +1,6 @@
 <instance format="XCSP3" type="COP">
   <variables>
     <array id="freq" size="[148]"> 1..256 </array>
-    <var id="objective"> 1..256 </var>
   </variables>
   <constraints>
     <group>
@@ -7760,12 +7759,8 @@
       <args> freq[146] freq[147] </args>
     </group>
     <intension> eq(freq[0],1) </intension>
-    <maximum>
-      <list> freq[] </list>
-      <condition> (eq,objective) </condition>
-    </maximum>
   </constraints>
   <objectives>
-    <minimize> objective </minimize>
+    <minimize type="maximum"> freq[] </minimize>
   </objectives>
 </instance>

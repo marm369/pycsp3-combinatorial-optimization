@@ -1,6 +1,6 @@
 {
   "solver": "ace",
-  "total_time_seconds": 11.848,
+  "total_time_seconds": 26.82,
   "instances": [
     {
       "instance_id": 1,
@@ -28,7 +28,7 @@
         4
       ],
       "verification": "Solution valide",
-      "time_seconds": 0.389
+      "time_seconds": 1.013
     },
     {
       "instance_id": 2,
@@ -56,7 +56,7 @@
         0
       ],
       "verification": "Solution valide",
-      "time_seconds": 0.353
+      "time_seconds": 0.944
     },
     {
       "instance_id": 3,
@@ -84,7 +84,7 @@
         0
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 11 n'est pas un entier (*)",
-      "time_seconds": 0.378
+      "time_seconds": 0.965
     },
     {
       "instance_id": 4,
@@ -112,7 +112,7 @@
         3
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 5 n'est pas un entier (*)",
-      "time_seconds": 0.398
+      "time_seconds": 0.921
     },
     {
       "instance_id": 5,
@@ -140,98 +140,98 @@
         Infinity
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 15 n'est pas un entier (*)",
-      "time_seconds": 0.414
+      "time_seconds": 0.925
     },
     {
       "instance_id": 6,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.461
+      "time_seconds": 1.018
     },
     {
       "instance_id": 7,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.492
+      "time_seconds": 1.083
     },
     {
       "instance_id": 8,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.463
+      "time_seconds": 1.049
     },
     {
       "instance_id": 9,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.452
+      "time_seconds": 0.999
     },
     {
       "instance_id": 10,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.459
+      "time_seconds": 1.107
     },
     {
       "instance_id": 11,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.463
+      "time_seconds": 1.096
     },
     {
       "instance_id": 12,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.426
+      "time_seconds": 0.937
     },
     {
       "instance_id": 13,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.453
+      "time_seconds": 0.975
     },
     {
       "instance_id": 14,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.43
+      "time_seconds": 0.986
     },
     {
       "instance_id": 15,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.452
+      "time_seconds": 0.966
     },
     {
       "instance_id": 16,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.437
+      "time_seconds": 1.037
     },
     {
       "instance_id": 17,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.437
+      "time_seconds": 0.95
     },
     {
       "instance_id": 18,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.46
+      "time_seconds": 0.995
     },
     {
       "instance_id": 19,
@@ -279,7 +279,7 @@
         5
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 3 n'est pas un entier (*)",
-      "time_seconds": 0.438
+      "time_seconds": 0.974
     },
     {
       "instance_id": 20,
@@ -327,7 +327,7 @@
         0
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 18 n'est pas un entier (*)",
-      "time_seconds": 0.44
+      "time_seconds": 0.985
     },
     {
       "instance_id": 21,
@@ -375,7 +375,7 @@
         8
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 0 n'est pas un entier (*)",
-      "time_seconds": 0.44
+      "time_seconds": 0.945
     },
     {
       "instance_id": 22,
@@ -423,7 +423,7 @@
         8
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 20 n'est pas un entier (*)",
-      "time_seconds": 0.448
+      "time_seconds": 1.12
     },
     {
       "instance_id": 23,
@@ -471,7 +471,7 @@
         9
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 4 n'est pas un entier (*)",
-      "time_seconds": 0.43
+      "time_seconds": 0.942
     },
     {
       "instance_id": 24,
@@ -519,28 +519,28 @@
         4
       ],
       "verification": "Solution invalide : la valeur \u00e0 l'indice 10 n'est pas un entier (*)",
-      "time_seconds": 0.428
+      "time_seconds": 0.9
     },
     {
       "instance_id": 25,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.426
+      "time_seconds": 0.929
     },
     {
       "instance_id": 26,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.558
+      "time_seconds": 1.128
     },
     {
       "instance_id": 27,
       "status": "unsolved",
       "solution": null,
       "verification": "No solution found",
-      "time_seconds": 0.423
+      "time_seconds": 0.931
     }
   ]
 }

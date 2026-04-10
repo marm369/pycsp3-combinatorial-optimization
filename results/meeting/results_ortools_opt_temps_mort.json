@@ -1,0 +1,195 @@
+{
+  "solver": "ortools",
+  "total_time_seconds": 18.808,
+  "instances": [
+    {
+      "instance_id": 1,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.089,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 2,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.069,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 3,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.07,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 4,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.054,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 5,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.056,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 6,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.033,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 7,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.006,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 8,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.037,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 9,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.044,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 10,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.004,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 11,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.05,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 12,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.025,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 13,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.006,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 14,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.026,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 15,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.036,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 16,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.029,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 17,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.004,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 18,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.008,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 19,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 9.627,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 20,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 4.559,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 21,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 2.709,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 22,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.81,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 23,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.116,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 24,
+      "status": "error",
+      "solution": null,
+      "time_seconds": 0.055,
+      "verification": "name 'makespan' is not defined"
+    },
+    {
+      "instance_id": 25,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.025,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 26,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.154,
+      "verification": "No solution found"
+    },
+    {
+      "instance_id": 27,
+      "status": "unsolved",
+      "solution": null,
+      "time_seconds": 0.004,
+      "verification": "No solution found"
+    }
+  ]
+}
